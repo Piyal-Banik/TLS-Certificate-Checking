@@ -5,6 +5,7 @@ Following things are checked:
 extension) and wildcards
 3. minimum key length of 2048 bits for RSA
 4. correct key usage, including extensions
+
 A C program that reads in a CSV (comma separated
 value) file that contains two columns. The first column provides the file
 path for the certificate to test. The second column provides the URL from
